@@ -2,8 +2,23 @@
   text-align: center;
 }
 
+.logos {
+  display: flex;
+  align-items: center;
+}
+
 .App-logo {
   height: 40vmin;
+  pointer-events: none;
+}
+
+.Emoji {
+  margin-left: 100px;
+  font-size: 150px;
+}
+
+.Rescript-logo {
+  height: 30vmin;
   pointer-events: none;
 }
 
