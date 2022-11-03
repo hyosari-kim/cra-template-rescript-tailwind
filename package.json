@@ -1,7 +1,7 @@
 {
-  "name": "rescript-template",
+  "name": "cra-template-hello-res",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "keywords": [
     "react",
     "rescript-react",
