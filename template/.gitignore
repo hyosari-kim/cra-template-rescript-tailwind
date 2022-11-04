@@ -6,10 +6,6 @@
 /.pnp
 .pnp.js
 
-# temp
-template/node_modules
-template/lib
-
 # testing
 /coverage
 
