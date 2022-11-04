@@ -1,17 +1,18 @@
 {
-  "name": "cra-template-res",
-  "version": "0.1.4",
+  "name": "cra-template-rescript-tailwind",
+  "version": "0.1.6",
   "private": false,
   "keywords": [
     "react",
     "rescript-react",
     "create-react-app",
     "template",
-    "rescript"
+    "rescript",
+    "tailwind"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyosari-kim/rescript-template.git"
+    "url": "git+https://github.com/hyosari-kim/cra-template-rescript-tailwind.git"
   },
   "author": {
     "name": "hyosari Kim",
