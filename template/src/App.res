@@ -16,7 +16,7 @@ let make = () =>
         <code> {" src/App.res "->React.string} </code>
         {"and save to reload."->React.string}
       </p>
-      <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+      <a className="App-link" href="https://rescript-lang.org/docs/react/latest/introduction" target="_blank" rel="noopener noreferrer">
         {"Learn ReScript/React"->React.string}
       </a>
     </header>
